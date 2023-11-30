@@ -1,0 +1,6 @@
+com\telusko\joblisting\repository\PostRepository.class
+com\telusko\joblisting\repository\SearchRepositoryImpl.class
+com\telusko\joblisting\controller\PostController.class
+com\telusko\joblisting\JoblistingApplication.class
+com\telusko\joblisting\model\Post.class
+com\telusko\joblisting\repository\SearchRepository.class
